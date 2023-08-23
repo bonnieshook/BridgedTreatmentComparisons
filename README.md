@@ -3,7 +3,7 @@
 ### Bonnie E. Shook-Sa, Paul N. Zivich, Samuel P. Rosin, Jessie K. Edwards, Adaora A. Adimora, Michael G. Hudgens, and Stephen R. Cole
 
 **Citation**: Shook-Sa BE, Zivich PN, Rosin SP, Edwards JK, Adimora AA, Hudgens MG, and Cole SR. "Fusing Trial Data for Treatment Comparisons: Single versus Multi-Span Bridging." *arXiv* arXiv:2305.00845.
-
+[![arXiv](https://img.shields.io/badge/arXiv-2206.04445-b31b1b.svg)](https://arxiv.org/abs/2305.00845)
 --------------------------------
 
 ## Abstract
