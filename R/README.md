@@ -1,3 +1,9 @@
+# Fusing Trial Data for Treatment Comparisons: Single versus Multi-Span Bridging
+
+---
+
+## R code for simulations 
+
 These programs implement the simulation study described in Shook-Sa et al, "Fusing Trial Data for Treatment Comparisons: Single versus Multi-Span Bridging" in R
 
 The simulations are implemented in the following order:
